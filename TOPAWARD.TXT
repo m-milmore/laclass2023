@@ -1,0 +1,9 @@
+********************************(1) Top Students********************************
+Points	Name	Package	Top	Dances (total/this category)
+  102.00	Kemball, Edith [Arthur Murray Winnipeg]	N	N	102/102
+   88.00	VanDamme, Carol [Arthur Murray Winnipeg]	N	N	88/88
+   74.00	Knight, Deborah [Arthur Murray Winnipeg]	N	N	74/74
+   52.50	Krug, Peter [Artistica Ballroom Aurora]	N	N	63/63
+   42.00	Greco, Lori [Artistica Ballroom Aurora]	N	N	42/42
+   33.00	Collins, Patti [Artistica Ballroom Aurora]	N	N	33/33
+   10.50	Krug, Heike [Artistica Ballroom Aurora]	N	N	21/21

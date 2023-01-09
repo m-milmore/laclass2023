@@ -1,0 +1,3 @@
+ COMPMNGR DATABASE NAME: laclass23                        DATABASE LOCATION: C:\cmpmgr\LaClass\laclass2023                        USER:Main (access level 10)
+CompMngr Version 3.221 [11/11/2022 07:12], Copyright 2022 by Richard E. Douglass, Ph.D. [Executable program: C:\cmpmgr\CompMngr.exe]
+For use by La Classique du Quebec. Unlimited Jan 08, 2023 - Feb 13, 2023. Unlimited number of entries.                                              
