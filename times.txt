@@ -6,6 +6,10 @@ samedi le 7 janvier 2023
 setup Compmngr - horaire, formulaires d'inscription
 imprimer les formulaires - 
 
+dimanche le 8 janvier 2023
+11h00 - 17h00 => 6hrs
+inscriptions 1403
+
 Error 32 in creating file c:\cmpmgr\LINEDRAW.TTF
 Error unzipping LINEDRAW.TTF
 
