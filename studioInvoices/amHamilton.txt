@@ -1,0 +1,83 @@
+		Invoice/Confirmation: 01/18/2023 11:11:57AM
+
+La Classique du Quebec
+Méryem Pearson
+Les Cours Mont-Royal, #103
+1001 Place Mt-Royal
+Montreal,P.Q. H3A 1P2, Canada
+Phone: 514-923-1181
+Fax: 450-906-1119
+Email: meryem.pearson@gmail.com
+
+
+                              Arthur Murray Hamilton
+                              Hamilton ON, 
+                              Email: r.accettola@arthurmurraywaterloo.com
+
+
+Name	Room	Arrive  	Depart  	Purchases	 Entries	  #	Total purchased
+Joan Roca Fabra		        	        	    0.00	    0.00	 19	    0.00
+Carlos Lourenco		        	        	    0.00	    0.00	 26	    0.00
+Gabby Piotto		        	        	    0.00	 1860.00	 45	 1860.00
+Totals		        	        	    0.00	 1860.00	 45	 1860.00
+
+Financial summary
+45 dances		     1860.00
+0 packages		        0.00
+0 purchases		        0.00
+Subtotal of expenses		     1860.00
+0 payments		        0.00
+Balance due		     1860.00
+
+Entries for: Piotto, Gabby/Fabra, Joan Roca
+ L-C2 Full Bronze Closed RHYTHM  Chacha                                	   40.00
+ L-C2 Full Bronze Closed RHYTHM  Rumba                                 	   40.00
+ L-C2 Full Bronze Closed RHYTHM  Swing                                 	   40.00
+ L-C2 Silver 1 Closed RHYTHM  Chacha                                   	   40.00
+ L-C2 Silver 1 Closed RHYTHM  Rumba                                    	   40.00
+ L-C2 Silver 1 Closed RHYTHM  Swing                                    	   40.00
+ L-C2 Full Bronze Open RHYTHM  Chacha                                  	   40.00
+ L-C2 Full Bronze Open RHYTHM  Rumba                                   	   40.00
+ L-C2 Full Bronze Open RHYTHM  Swing                                   	   40.00
+ L-C2 Silver 1 Open RHYTHM  Chacha                                     	   40.00
+ L-C2 Silver 1 Open RHYTHM  Rumba                                      	   40.00
+ L-C2 Silver 1 Open RHYTHM  Swing                                      	   40.00
+ L-C2 Full Bronze Closed CLUB  Samba                                   	   40.00
+ L-C2 Full Bronze Open CLUB  Merengue                                  	   40.00
+ L-C2 Full Bronze Open CLUB  Salsa                                     	   40.00
+ L-C2 Full Bronze Open CLUB  Hustle                                    	   40.00
+ L-C2 Full Bronze Open CLUB  Bachata                                   	   40.00
+ L-C2 Bronze Open PRO-AM  RHYTHM  3 Danses/Dance  (C/R/SW)             	   55.00
+ L-B Open PRO-AM  CLUB  3 Danses/Dance (Salsa/Merengue/Bachata)        	   55.00
+Subtotal						(19)	  790.00
+
+Entries for: Piotto, Gabby/Lourenco, Carlos
+ L-C2 Full Bronze Closed SMOOTH  Valse/Waltz                           	   40.00
+ L-C2 Full Bronze Closed SMOOTH  Tango                                 	   40.00
+ L-C2 Full Bronze Closed SMOOTH  Foxtrot                               	   40.00
+ L-C2 Full Bronze Closed SMOOTH  Valse Viennoise/V. Waltz              	   40.00
+ L-C2 Silver 1 Closed SMOOTH  Valse/Waltz                              	   40.00
+ L-C2 Silver 1 Closed SMOOTH  Tango                                    	   40.00
+ L-C2 Silver 1 Closed SMOOTH  Foxtrot                                  	   40.00
+ L-C2 Silver 1 Closed SMOOTH  Valse Viennoise/V. Waltz                 	   40.00
+ L-C2 Full Bronze Open SMOOTH  Valse/Waltz                             	   40.00
+ L-C2 Full Bronze Open SMOOTH  Tango                                   	   40.00
+ L-C2 Full Bronze Open SMOOTH  Foxtrot                                 	   40.00
+ L-C2 Full Bronze Open SMOOTH  Valse Viennoise/V. Waltz                	   40.00
+ L-C2 Silver 1 Open SMOOTH  Valse/Waltz                                	   40.00
+ L-C2 Silver 1 Open SMOOTH  Tango                                      	   40.00
+ L-C2 Silver 1 Open SMOOTH  Foxtrot                                    	   40.00
+ L-C2 Silver 1 Open SMOOTH  Valse Viennoise/V. Waltz                   	   40.00
+ L-C2 Full Bronze Closed RHYTHM  Bolero                                	   40.00
+ L-C2 Full Bronze Closed RHYTHM  Mambo                                 	   40.00
+ L-C2 Silver 1 Closed RHYTHM  Bolero                                   	   40.00
+ L-C2 Silver 1 Closed RHYTHM  Mambo                                    	   40.00
+ L-C2 Full Bronze Open RHYTHM  Bolero                                  	   40.00
+ L-C2 Full Bronze Open RHYTHM  Mambo                                   	   40.00
+ L-C2 Silver 1 Open RHYTHM  Bolero                                     	   40.00
+ L-C2 Silver 1 Open RHYTHM  Mambo                                      	   40.00
+ L-C2 Bronze Closed PRO-AM  SMOOTH  3 Danses/Dance  (W/T/F)            	   55.00
+ L-C2 Bronze Open PRO-AM  SMOOTH  3 Danses/Dance  (W/T/F)              	   55.00
+Subtotal						(26)	 1070.00
+
+Total						(45)	 1860.00

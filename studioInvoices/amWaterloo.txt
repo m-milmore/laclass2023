@@ -1,0 +1,202 @@
+		Invoice/Confirmation: 01/18/2023 11:12:19AM
+
+La Classique du Quebec
+Méryem Pearson
+Les Cours Mont-Royal, #103
+1001 Place Mt-Royal
+Montreal,P.Q. H3A 1P2, Canada
+Phone: 514-923-1181
+Fax: 450-906-1119
+Email: meryem.pearson@gmail.com
+
+
+                              Arthur Murray Waterloo
+                              Waterloo ON, 
+                              Email: r.accettola@arthurmurraywaterloo.com
+
+
+Name	Room	Arrive  	Depart  	Purchases	 Entries	  #	Total purchased
+Renata Accettola		        	        	    0.00	    0.00	 42	    0.00
+Joan Roca Fabra**		        	        	    0.00	    0.00	 44	    0.00
+Mickey Norris		        	        	    0.00	 3040.00	 71	 3040.00
+Brian Smith		        	        	    0.00	 2050.00	 42	 2050.00
+Jacquie Smith		        	        	    0.00	 1960.00	 44	 1960.00
+Kira Van Dam		        	        	    0.00	    0.00	 71	    0.00
+Totals		        	        	    0.00	 7050.00	157	 7050.00
+**From another studio
+
+Financial summary
+157 dances		     7050.00
+0 packages		        0.00
+0 purchases		        0.00
+Subtotal of expenses		     7050.00
+0 payments		        0.00
+Balance due		     7050.00
+
+Entries for: Norris, Mickey/Van Dam, Kira
+ G-C1 Silver 1 Closed SMOOTH  Valse/Waltz                              	   40.00
+ G-C1 Silver 1 Closed SMOOTH  Tango                                    	   40.00
+ G-C1 Silver 1 Closed SMOOTH  Foxtrot                                  	   40.00
+ G-C1 Silver 1 Closed SMOOTH  Valse Viennoise/V. Waltz                 	   40.00
+ G-C2 Silver 1 Closed SMOOTH  Valse/Waltz                              	   40.00
+ G-C2 Silver 1 Closed SMOOTH  Tango                                    	   40.00
+ G-C2 Silver 1 Closed SMOOTH  Foxtrot                                  	   40.00
+ G-C2 Silver 1 Closed SMOOTH  Valse Viennoise/V. Waltz                 	   40.00
+ G-C1 Silver 2 Closed SMOOTH  Valse/Waltz                              	   40.00
+ G-C1 Silver 2 Closed SMOOTH  Tango                                    	   40.00
+ G-C1 Silver 2 Closed SMOOTH  Foxtrot                                  	   40.00
+ G-C1 Silver 2 Closed SMOOTH  Valse Viennoise/V. Waltz                 	   40.00
+ G-C1 Silver 1 Open SMOOTH  Valse/Waltz                                	   40.00
+ G-C1 Silver 1 Open SMOOTH  Tango                                      	   40.00
+ G-C1 Silver 1 Open SMOOTH  Foxtrot                                    	   40.00
+ G-C1 Silver 1 Open SMOOTH  Valse Viennoise/V. Waltz                   	   40.00
+ G-C2 Silver 1 Open SMOOTH  Valse/Waltz                                	   40.00
+ G-C2 Silver 1 Open SMOOTH  Tango                                      	   40.00
+ G-C2 Silver 1 Open SMOOTH  Foxtrot                                    	   40.00
+ G-C2 Silver 1 Open SMOOTH  Valse Viennoise/V. Waltz                   	   40.00
+ G-C1 Silver 2 Open SMOOTH  Valse/Waltz                                	   40.00
+ G-C1 Silver 2 Open SMOOTH  Tango                                      	   40.00
+ G-C1 Silver 2 Open SMOOTH  Foxtrot                                    	   40.00
+ G-C1 Silver 2 Open SMOOTH  Valse Viennoise/V. Waltz                   	   40.00
+ G-C1 Silver 1 Closed RHYTHM  Chacha                                   	   40.00
+ G-C1 Silver 1 Closed RHYTHM  Rumba                                    	   40.00
+ G-C1 Silver 1 Closed RHYTHM  Swing                                    	   40.00
+ G-C1 Silver 1 Closed RHYTHM  Bolero                                   	   40.00
+ G-C1 Silver 1 Closed RHYTHM  Mambo                                    	   40.00
+ G-C2 Silver 1 Closed RHYTHM  Chacha                                   	   40.00
+ G-C2 Silver 1 Closed RHYTHM  Rumba                                    	   40.00
+ G-C2 Silver 1 Closed RHYTHM  Swing                                    	   40.00
+ G-C2 Silver 1 Closed RHYTHM  Bolero                                   	   40.00
+ G-C2 Silver 1 Closed RHYTHM  Mambo                                    	   40.00
+ G-C1 Silver 2 Closed RHYTHM  Chacha                                   	   40.00
+ G-C1 Silver 2 Closed RHYTHM  Rumba                                    	   40.00
+ G-C1 Silver 2 Closed RHYTHM  Swing                                    	   40.00
+ G-C1 Silver 2 Closed RHYTHM  Bolero                                   	   40.00
+ G-C1 Silver 2 Closed RHYTHM  Mambo                                    	   40.00
+ G-C1 Silver 1 Open RHYTHM  Chacha                                     	   40.00
+ G-C1 Silver 1 Open RHYTHM  Rumba                                      	   40.00
+ G-C1 Silver 1 Open RHYTHM  Swing                                      	   40.00
+ G-C1 Silver 1 Open RHYTHM  Bolero                                     	   40.00
+ G-C1 Silver 1 Open RHYTHM  Mambo                                      	   40.00
+ G-C2 Silver 1 Open RHYTHM  Chacha                                     	   40.00
+ G-C2 Silver 1 Open RHYTHM  Rumba                                      	   40.00
+ G-C2 Silver 1 Open RHYTHM  Swing                                      	   40.00
+ G-C2 Silver 1 Open RHYTHM  Bolero                                     	   40.00
+ G-C2 Silver 1 Open RHYTHM  Mambo                                      	   40.00
+ G-C1 Silver 2 Open RHYTHM  Chacha                                     	   40.00
+ G-C1 Silver 2 Open RHYTHM  Rumba                                      	   40.00
+ G-C1 Silver 2 Open RHYTHM  Swing                                      	   40.00
+ G-C1 Silver 2 Open RHYTHM  Bolero                                     	   40.00
+ G-C1 Silver 2 Open RHYTHM  Mambo                                      	   40.00
+ G-C1 Silver 1 Closed CLUB  Hustle                                     	   40.00
+ G-C1 Silver 1 Closed CLUB  Samba                                      	   40.00
+ G-C2 Silver 1 Closed CLUB  Hustle                                     	   40.00
+ G-C2 Silver 1 Closed CLUB  Samba                                      	   40.00
+ G-C1 Silver 2 Closed CLUB  Hustle                                     	   40.00
+ G-C1 Silver 2 Closed CLUB  Samba                                      	   40.00
+ G-C1 Silver 1 Open CLUB  Samba                                        	   40.00
+ G-C2 Silver 1 Open CLUB  Samba                                        	   40.00
+ G-C1 Silver 2 Open CLUB  Samba                                        	   40.00
+ G-C1 Silver Closed PRO-AM  SMOOTH  3 Danses/Dance  (W/T/F)            	   55.00
+ G-C1 Silver Open PRO-AM  SMOOTH  3 Danses/Dance  (W/T/F)              	   55.00
+ G-C1 Silver Closed PRO-AM  RHYTHM  3 Danses/Dance  (C/R/SW)           	   55.00
+ G-C1 Silver Open PRO-AM  RHYTHM  3 Danses/Dance  (C/R/SW)             	   55.00
+ G-C1 Open PRO-AM  SMOOTH  WORLD DANCESPORT SERIES  Schol. (W/T/F/VW)  	   75.00
+ G-C1 Open PRO-AM  RHYTHM  WORLD DANCESPORT SERIES  Schol. (C/R/SW/B/M)	   75.00
+ G-C1 Open PRO-AM  SMOOTH  GRAND SLAM  Schol. (W/T/F/VW)               	   75.00
+ G-C1 Open PRO-AM  RHYTHM  GRAND SLAM  Schol. (C/R/SW/B/M)             	   75.00
+Subtotal						(71)	 3040.00
+
+Entries for: Smith, Brian/Accettola, Renata
+ G-C1 Silver 1 Open SMOOTH  Valse/Waltz                                	   40.00
+ G-C1 Silver 1 Open SMOOTH  Tango                                      	   40.00
+ G-C1 Silver 1 Open SMOOTH  Foxtrot                                    	   40.00
+ G-C1 Silver 1 Open SMOOTH  Valse Viennoise/V. Waltz                   	   40.00
+ G-C1 Silver 2 Open SMOOTH  Valse/Waltz                                	   40.00
+ G-C1 Silver 2 Open SMOOTH  Tango                                      	   40.00
+ G-C1 Silver 2 Open SMOOTH  Foxtrot                                    	   40.00
+ G-C1 Silver 2 Open SMOOTH  Valse Viennoise/V. Waltz                   	   40.00
+ G-C1 Silver 1 Open RHYTHM  Chacha                                     	   40.00
+ G-C1 Silver 1 Open RHYTHM  Rumba                                      	   40.00
+ G-C1 Silver 1 Open RHYTHM  Swing                                      	   40.00
+ G-C1 Silver 1 Open RHYTHM  Bolero                                     	   40.00
+ G-C1 Silver 1 Open RHYTHM  Mambo                                      	   40.00
+ G-C1 Silver 2 Open RHYTHM  Chacha                                     	   40.00
+ G-C1 Silver 2 Open RHYTHM  Rumba                                      	   40.00
+ G-C1 Silver 2 Open RHYTHM  Swing                                      	   40.00
+ G-C1 Silver 2 Open RHYTHM  Bolero                                     	   40.00
+ G-C1 Silver 2 Open RHYTHM  Mambo                                      	   40.00
+ G-C1 Bronze 1 Closed BALLROOM  Valse/Waltz                            	   40.00
+ G-C1 Bronze 1 Closed BALLROOM  Tango                                  	   40.00
+ G-C1 Bronze 1 Closed BALLROOM  Valse Viennoise/V. Waltz               	   40.00
+ G-C1 Bronze 1 Closed BALLROOM  Foxtrot                                	   40.00
+ G-C1 Bronze 1 Closed BALLROOM  Quickstep                              	   40.00
+ G-C1 Bronze 2 Closed BALLROOM  Valse/Waltz                            	   40.00
+ G-C1 Bronze 2 Closed BALLROOM  Tango                                  	   40.00
+ G-C1 Bronze 2 Closed BALLROOM  Valse Viennoise/V. Waltz               	   40.00
+ G-C1 Bronze 2 Closed BALLROOM  Foxtrot                                	   40.00
+ G-C1 Bronze 2 Closed BALLROOM  Quickstep                              	   40.00
+ G-B1 Silver Open PRO-AM  SMOOTH  3 Danses/Dance  (W/T/F)              	   55.00
+ G-C1 Silver Open PRO-AM  SMOOTH  3 Danses/Dance  (W/T/F)              	   55.00
+ G-B1 Silver Open PRO-AM  RHYTHM  3 Danses/Dance  (C/R/SW)             	   55.00
+ G-C1 Silver Open PRO-AM  RHYTHM  3 Danses/Dance  (C/R/SW)             	   55.00
+ G-B1 Bronze Closed PRO-AM  BALLROOM  3 Danses/Dance  (W/T/F)          	   55.00
+ G-C1 Bronze Closed PRO-AM  BALLROOM  3 Danses/Dance  (W/T/F)          	   55.00
+ G-B1 Open PRO-AM  SMOOTH  WORLD DANCESPORT SERIES  Schol. (W/T/F/VW)  	   75.00
+ G-C1 Open PRO-AM  SMOOTH  WORLD DANCESPORT SERIES  Schol. (W/T/F/VW)  	   75.00
+ G-B1 Open PRO-AM  RHYTHM  WORLD DANCESPORT SERIES  Schol. (C/R/SW/B/M)	   75.00
+ G-C1 Open PRO-AM  RHYTHM  WORLD DANCESPORT SERIES  Schol. (C/R/SW/B/M)	   75.00
+ G-B1 Open PRO-AM  SMOOTH  GRAND SLAM  Schol. (W/T/F/VW)               	   75.00
+ G-C1 Open PRO-AM  SMOOTH  GRAND SLAM  Schol. (W/T/F/VW)               	   75.00
+ G-B1 Open PRO-AM  RHYTHM  GRAND SLAM  Schol. (C/R/SW/B/M)             	   75.00
+ G-C1 Open PRO-AM  RHYTHM  GRAND SLAM  Schol. (C/R/SW/B/M)             	   75.00
+Subtotal						(42)	 2050.00
+
+Entries for: Smith, Jacquie/Fabra, Joan Roca
+ L-C1 Silver 1 Open SMOOTH  Valse/Waltz                                	   40.00
+ L-C1 Silver 1 Open SMOOTH  Tango                                      	   40.00
+ L-C1 Silver 1 Open SMOOTH  Foxtrot                                    	   40.00
+ L-C1 Silver 1 Open SMOOTH  Valse Viennoise/V. Waltz                   	   40.00
+ L-C1 Silver 2 Open SMOOTH  Valse/Waltz                                	   40.00
+ L-C1 Silver 2 Open SMOOTH  Tango                                      	   40.00
+ L-C1 Silver 2 Open SMOOTH  Foxtrot                                    	   40.00
+ L-C1 Silver 2 Open SMOOTH  Valse Viennoise/V. Waltz                   	   40.00
+ L-C1 Full Silver Open SMOOTH  Valse/Waltz                             	   40.00
+ L-C1 Full Silver Open SMOOTH  Tango                                   	   40.00
+ L-C1 Full Silver Open SMOOTH  Foxtrot                                 	   40.00
+ L-C1 Full Silver Open SMOOTH  Valse Viennoise/V. Waltz                	   40.00
+ L-C1 Gold 1 Open SMOOTH  Valse/Waltz                                  	   40.00
+ L-C1 Gold 1 Open SMOOTH  Tango                                        	   40.00
+ L-C1 Gold 1 Open SMOOTH  Foxtrot                                      	   40.00
+ L-C1 Gold 1 Open SMOOTH  Valse Viennoise/V. Waltz                     	   40.00
+ L-C1 Silver 1 Open RHYTHM  Chacha                                     	   40.00
+ L-C1 Silver 1 Open RHYTHM  Rumba                                      	   40.00
+ L-C1 Silver 1 Open RHYTHM  Swing                                      	   40.00
+ L-C1 Silver 1 Open RHYTHM  Bolero                                     	   40.00
+ L-C1 Silver 1 Open RHYTHM  Mambo                                      	   40.00
+ L-C1 Silver 2 Open RHYTHM  Chacha                                     	   40.00
+ L-C1 Silver 2 Open RHYTHM  Rumba                                      	   40.00
+ L-C1 Silver 2 Open RHYTHM  Swing                                      	   40.00
+ L-C1 Silver 2 Open RHYTHM  Bolero                                     	   40.00
+ L-C1 Silver 2 Open RHYTHM  Mambo                                      	   40.00
+ L-C1 Full Silver Open RHYTHM  Chacha                                  	   40.00
+ L-C1 Full Silver Open RHYTHM  Rumba                                   	   40.00
+ L-C1 Full Silver Open RHYTHM  Swing                                   	   40.00
+ L-C1 Full Silver Open RHYTHM  Bolero                                  	   40.00
+ L-C1 Full Silver Open RHYTHM  Mambo                                   	   40.00
+ L-C1 Gold 1 Open RHYTHM  Chacha                                       	   40.00
+ L-C1 Gold 1 Open RHYTHM  Rumba                                        	   40.00
+ L-C1 Gold 1 Open RHYTHM  Swing                                        	   40.00
+ L-C1 Gold 1 Open RHYTHM  Bolero                                       	   40.00
+ L-C1 Gold 1 Open RHYTHM  Mambo                                        	   40.00
+ L-C1 Silver Open PRO-AM  SMOOTH  3 Danses/Dance  (W/T/F)              	   55.00
+ L-C1 Gold Open PRO-AM  SMOOTH  3 Danses/Dance  (W/T/F)                	   55.00
+ L-C1 Silver Open PRO-AM  RHYTHM  3 Danses/Dance  (C/R/SW)             	   55.00
+ L-C1 Gold Open PRO-AM  RHYTHM  3 Danses/Dance  (C/R/SW)               	   55.00
+ L-C1 Open PRO-AM  SMOOTH  WORLD DANCESPORT SERIES  Schol. (W/T/F/VW)  	   75.00
+ L-C1 Open PRO-AM  RHYTHM  WORLD DANCESPORT SERIES  Schol. (C/R/SW/B/M)	   75.00
+ L-C1 Open PRO-AM  SMOOTH  GRAND SLAM  Schol. (W/T/F/VW)               	   75.00
+ L-C1 Open PRO-AM  RHYTHM  GRAND SLAM  Schol. (C/R/SW/B/M)             	   75.00
+Subtotal						(44)	 1960.00
+
+Total						(157)	 7050.00
