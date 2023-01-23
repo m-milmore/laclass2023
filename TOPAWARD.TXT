@@ -1,9 +1,22 @@
-********************************(1) Top Students********************************
+*********************************(3) Top Studio*********************************
 Points	Name	Package	Top	Dances (total/this category)
-  102.00	Kemball, Edith [Arthur Murray Winnipeg]	N	N	102/102
-   88.00	VanDamme, Carol [Arthur Murray Winnipeg]	N	N	88/88
-   74.00	Knight, Deborah [Arthur Murray Winnipeg]	N	N	74/74
-   52.50	Krug, Peter [Artistica Ballroom Aurora]	N	N	63/63
-   42.00	Greco, Lori [Artistica Ballroom Aurora]	N	N	42/42
-   33.00	Collins, Patti [Artistica Ballroom Aurora]	N	N	33/33
-   10.50	Krug, Heike [Artistica Ballroom Aurora]	N	N	21/21
+  741.00	Arthur Murray Rochester	0	N	744/741
+  470.00	Arthur Murray Montreal	0	N	470/470
+  311.00	Arthur Murray Ajax	0	N	383/333
+  309.00	SlavaTalent Ballroom	0	N	315/315
+  264.00	Arthur Murray Winnipeg	0	N	264/264
+  157.00	Arthur Murray Waterloo	0	N	157/157
+  141.00	Dance With TLC Ottawa	0	N	141/141
+  139.00	EDS Montréal	0	N	140/139
+  138.00	Artistica Ballroom Aurora	0	N	138/138
+  128.00	Arthur Murray Oakville	0	N	128/128
+  102.00	Arthur Murray West Island	0	N	118/112
+   75.00	SB Dance Montréal	0	N	75/75
+   62.50	Studio Messier-Bolduc	0	N	97/72
+   55.00	Juste Danse Montréal	0	N	65/59
+   51.00	Team Fylymonchyk Toronto	0	N	66/51
+   45.00	Arthur Murray Hamilton	0	N	45/45
+   36.00	Star Dance Center Toronto	0	N	36/36
+   28.00	The Ballroom Club Toronto	0	N	28/28
+   25.00	Studio 2720 Montréal	0	N	45/25
+   22.00	Dance Vitality Toronto	0	N	23/22
